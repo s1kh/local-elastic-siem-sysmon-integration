@@ -37,7 +37,7 @@ end-to-end.
   events within seconds
 
 ## Documentation
-See [`docs/`](./docs) for the full written report, including setup steps and
+See [`docs/Deployment of a Centralized SIEM.pdf`](./docs/Deployment of a Centralized SIEM.pdf) for the full written report, including setup steps and
 supporting screenshots.
 
 ## Disclaimer
